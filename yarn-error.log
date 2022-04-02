@@ -18,9 +18,9 @@ Trace:
 
 npm manifest: 
   {
-    "name": "SIEGRIN",
+    "name": "ROZI",
     "version": "1.0.0",
-    "description": "SIEGRIN",
+    "description": "ROZI",
     "main": "node main",
     "directories": {
       "lib": "lib"
@@ -36,7 +36,7 @@ npm manifest:
       "whatsapp",
       "bot"
     ],
-    "author": "SIEGRIN",
+    "author": "ROZI",
     "license": "ISC",
     "dependencies": {
       "@adiwajshing/baileys": "^3.5.2",
